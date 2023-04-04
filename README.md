@@ -1,4 +1,5 @@
-![Logo](https://res.cloudinary.com/dgamerone/image/upload/v1680565571/Banner_GitHub_vhhwld.png)
+<p align="center"> <img src="https://res.cloudinary.com/dgamerone/image/upload/v1680565571/Banner_GitHub_vhhwld.png" alt="dgamerone"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Douglas Granado</h1>
 <h3 align="center">🚀 Soy y seré eternamente un aprendiz de este mundo técnológico, ya que siempre hay algo nuevo que aprender todos los días. He ido escalando paso a paso en el Fronted y a su vez en el Backend. La verdad es muy gratificante saber que no tienes limites. Como dijo Einstein: "Si lo puedes soñar, lo puedes lograr"...</h3>
